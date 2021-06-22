@@ -1,0 +1,5 @@
+# Ignore files with the following extentions
+.zip
+
+#ignore files in the following folders
+node_modules/
